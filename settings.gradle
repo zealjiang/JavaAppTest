@@ -1,0 +1,6 @@
+include ':libkotlin'
+include ':corelibrary'
+include ':core'
+include ':lib'
+include ':app'
+rootProject.name = "JavaAppTest"
